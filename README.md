@@ -7,40 +7,43 @@
 [![Medium Badge](https://img.shields.io/badge/-@0zancan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@0zancan/)](https://medium.com/@0zancan)
 [![Gmail Badge](https://img.shields.io/badge/-ozancan@yandex.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ozancan@yandex.com)](mailto:ozancan@yandex.com)
 
-<br />
-
 ## ⚡ I'm a .Net & Angular Developer!!
 
-- 🔭 I'm a Software Developer working for a fintech company in Turkey
-- 💻 I use daily .cs .ts .sql
+- 🔭 I'm working for a fintech company in Turkey
+- 💻 I use daily csharp, typescript, sql
 - 🌱 I’m currently learning React Native 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to walk
 
-<br />
 
-### Favorite Language:
+## Technologies I Use:
 
-![C#](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
+![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Angular.js](https://img.shields.io/badge/-Angular.js-black?style=flat-square&logo=angularjs)
 
-<br />
-
-### Tools I Use:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-black?style=flat-square&logo=microsoft%20sql%20server)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![VS](https://img.shields.io/badge/-VS-007ACC?style=flat-square&logo=visual-studio)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
+
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Soap UI](https://img.shields.io/badge/Soap%20UI-black?style=flat-square&logo=soap)
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visual-studio)
+
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-![.Net](https://img.shields.io/badge/-.Net-00599C?style=flat-square&logo=dotnet)
-![.Net](https://img.shields.io/badge/-Angular-00599C?style=flat-square&logo=angular)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
